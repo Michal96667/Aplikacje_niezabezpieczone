@@ -5,3 +5,4 @@
 # Aplikacje_niezabezpieczone
 # Aplikacje_niezabezpieczone
 # Aplikacje_niezabezpieczone
+# Aplikacje_niezabezpieczone
