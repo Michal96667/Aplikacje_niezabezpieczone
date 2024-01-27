@@ -1,0 +1,6 @@
+Skonfigurowane na localhost
+Wszystkie tabele aplikacji
+
+user - 'root'
+password ''
+dbname - 'michalc4_A'
